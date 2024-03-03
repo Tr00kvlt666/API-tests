@@ -1,0 +1,9 @@
+allure-pytest
+pytest
+requests
+python-dotenv
+pydantic
+playwright
+
+
+
